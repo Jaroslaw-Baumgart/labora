@@ -1,2 +1,4 @@
 # labora
-treści dokumentu README można wykonać jego commit do repozytorium
+Autor: Jarosław Baumgart
+Narzędzia: PyCharm
+
